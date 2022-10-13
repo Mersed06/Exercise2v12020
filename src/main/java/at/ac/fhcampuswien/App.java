@@ -72,7 +72,9 @@ public class App {
 
     //todo Task 4
     public void printRhombus() {
-        char a;
+        //Übung nicht verstanden bzw. nicht umsetzbar (aus meiner Sicht)
+
+        /*char a;
         int height;
 
         System.out.print("h: ");
@@ -112,7 +114,7 @@ public class App {
                 System.out.println();
 
             }
-        }
+        } */
     }
 
     //todo Task 5
